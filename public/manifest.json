@@ -1,0 +1,16 @@
+
+{
+  "short_name": "Cognito",
+  "name": "Cognito: AI Book Summary",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/google/generative-ai-docs/main/site/static/images/gemini-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#f8fafc"
+}
